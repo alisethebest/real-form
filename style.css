@@ -1,0 +1,38 @@
+form button {
+    padding: 10px;
+    background: darkslategray;
+    color: white;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    width: 100px;
+    margin: 10px auto 0;
+    border-radius: 20px;
+}
+
+
+
+form {
+    border: 4mm ridge navy
+}
+
+form {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+   img {
+       border: 1px solid #ddd;
+       border-radius: 4px;
+       padding: 5px;
+       width: 150px;
+       top: -160px;
+       right: 700px;
+   }
